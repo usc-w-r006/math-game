@@ -5,6 +5,8 @@ import java.util.Scanner;
  * ths is a simple math game for grades 3-5.
  *
  * @author Ash Benson
+ * @author Will Ross
+ * blh blh blh
  */
 
 public class MathGame {
